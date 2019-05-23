@@ -1,0 +1,34 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>002090.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>171</xmin>
+      <ymin>170</ymin>
+      <xmax>358</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>71</ymin>
+      <xmax>322</xmax>
+      <ymax>327</ymax>
+    </bndbox>
+  </object>
+</annotation>

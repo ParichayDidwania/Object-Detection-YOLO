@@ -1,0 +1,34 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>003701.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>332</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bicycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>17</xmin>
+      <ymin>178</ymin>
+      <xmax>294</xmax>
+      <ymax>426</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>112</ymin>
+      <xmax>188</xmax>
+      <ymax>340</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>001638.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>334</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>179</xmin>
+      <ymin>375</ymin>
+      <xmax>288</xmax>
+      <ymax>499</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>146</ymin>
+      <xmax>252</xmax>
+      <ymax>270</ymax>
+    </bndbox>
+  </object>
+</annotation>

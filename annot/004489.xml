@@ -1,0 +1,34 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>004489.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>333</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>126</ymin>
+      <xmax>225</xmax>
+      <ymax>471</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>46</ymin>
+      <xmax>304</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+</annotation>

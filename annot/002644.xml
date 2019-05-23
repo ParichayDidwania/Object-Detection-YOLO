@@ -1,0 +1,22 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>002644.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>500</width>
+    <height>383</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>239</xmin>
+      <ymin>89</ymin>
+      <xmax>445</xmax>
+      <ymax>308</ymax>
+    </bndbox>
+  </object>
+</annotation>

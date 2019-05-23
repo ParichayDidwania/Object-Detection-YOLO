@@ -1,0 +1,34 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>003914.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>500</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>32</xmin>
+      <ymin>32</ymin>
+      <xmax>422</xmax>
+      <ymax>338</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>372</xmin>
+      <ymin>128</ymin>
+      <xmax>500</xmax>
+      <ymax>249</ymax>
+    </bndbox>
+  </object>
+</annotation>

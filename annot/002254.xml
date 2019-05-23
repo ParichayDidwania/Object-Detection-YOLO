@@ -1,0 +1,22 @@
+<annotation>
+  <folder>annot</folder>
+  <filename>002254.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>350</width>
+    <height>189</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>65</xmin>
+      <ymin>15</ymin>
+      <xmax>286</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+</annotation>
